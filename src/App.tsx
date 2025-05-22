@@ -113,7 +113,7 @@ function App() {
         </div>
 
         <div className="right-section">
-          <h2>Hoş Geldiniz</h2>
+          <h2>Hoş Gel</h2>
           <p>Bu sağ bölümün içeriği. Buraya istediğiniz metni, formları veya diğer içerikleri ekleyebilirsiniz.</p>
 
           <div className="audio-player-container">
